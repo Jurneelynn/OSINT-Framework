@@ -1,15 +1,15 @@
 {
   "name": "OSINT Framework",
   "type": "folder",
-  "children": [rscottanderson1987@gmail.com
+  "children": [
   {
     "name": "Username",
     "type": "folder",
-    "children": [rscottanderson1987@gmail.com
+    "children": [
     {
       "name": "Username Search Engines",
       "type": "folder",
-      "children": [rscottanderson1987@gmail.com
+      "children": [
       {
         "name": "WhatsMyName",
         "type": "url",
